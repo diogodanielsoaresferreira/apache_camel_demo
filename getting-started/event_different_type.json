@@ -1,0 +1,9 @@
+{
+  "id": 2,
+  "text": "Hello John, how are you?",
+  "emitter": "Peter",
+  "type": "voicemail",
+  "devices": [
+    "smartphone"
+  ]
+}
